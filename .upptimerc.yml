@@ -14,8 +14,8 @@ sites:
   - name: Agent Discord Bot
     url: $AGENT_BOT_URL
     headers:
-    - "Content-Type: application/json"
-  body: '{ "Authorization": "$AGENT_BOT_KEY" }'
+      - "Content-Type: application/json"
+    body: '{"Authorization": "$AGENT_BOT_KEY"}'
 
 
 status-website:
