@@ -43,13 +43,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.blox.link.ico",
     "slug": "bloxlink-api",
     "status": "up",
-    "uptime": "96.84%",
-    "uptimeDay": "94.37%",
+    "uptime": "96.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.30%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "96.84%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "96.97%",
     "time": 200,
-    "timeDay": 215,
+    "timeDay": 155,
     "timeWeek": 196,
     "timeMonth": 200,
     "timeYear": 200,
@@ -64,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "discord-bot",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 642,
     "timeDay": 695,
     "timeWeek": 760,
@@ -85,7 +85,7 @@
     "url": "$AGENT_BOT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agent-discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -96,6 +96,8 @@
     "timeWeek": 223,
     "timeMonth": 181,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-03": 0
+    }
   }
 ]
