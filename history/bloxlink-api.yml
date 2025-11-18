@@ -1,7 +1,7 @@
 url: https://api.blox.link/v4
-status: down
-code: 500
-responseTime: 14769
-lastUpdated: 2025-11-18T14:55:18.634Z
+status: up
+code: 200
+responseTime: 127
+lastUpdated: 2025-11-18T15:27:24.412Z
 startTime: 2025-07-25T21:25:19.049Z
 generator: Upptime <https://github.com/upptime/upptime>
