@@ -1,7 +1,7 @@
 url: $API_BACKEND_URL
-status: up
-code: 200
-responseTime: 632
-lastUpdated: 2026-05-21T08:21:20.982Z
+status: down
+code: 522
+responseTime: 38898
+lastUpdated: 2026-05-21T11:44:50.256Z
 startTime: 2025-07-25T21:25:17.606Z
 generator: Upptime <https://github.com/upptime/upptime>
