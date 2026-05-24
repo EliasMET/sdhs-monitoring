@@ -4,17 +4,17 @@
     "url": "$API_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "97.34%",
-    "uptimeDay": "30.27%",
-    "uptimeWeek": "51.21%",
-    "uptimeMonth": "80.77%",
+    "uptimeDay": "34.41%",
+    "uptimeWeek": "51.18%",
+    "uptimeMonth": "80.74%",
     "uptimeYear": "97.34%",
-    "time": 4856,
-    "timeDay": 20978,
-    "timeWeek": 19998,
-    "timeMonth": 15446,
-    "timeYear": 4856,
+    "time": 4938,
+    "timeDay": 23250,
+    "timeWeek": 20899,
+    "timeMonth": 15674,
+    "timeYear": 4938,
     "dailyMinutesDown": {
       "2025-07-25": 22,
       "2025-08-07": 19,
@@ -57,7 +57,7 @@
       "2026-05-21": 796,
       "2026-05-22": 1078,
       "2026-05-23": 1197,
-      "2026-05-24": 476
+      "2026-05-24": 486
     }
   },
   {
