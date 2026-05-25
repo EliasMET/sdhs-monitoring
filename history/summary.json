@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api-backend",
     "status": "down",
-    "uptime": "97.23%",
+    "uptime": "97.18%",
     "uptimeDay": "32.36%",
-    "uptimeWeek": "47.33%",
-    "uptimeMonth": "79.57%",
-    "uptimeYear": "97.23%",
+    "uptimeWeek": "46.64%",
+    "uptimeMonth": "79.06%",
+    "uptimeYear": "97.18%",
     "time": 5106,
     "timeDay": 21300,
-    "timeWeek": 21267,
+    "timeWeek": 20840,
     "timeMonth": 15970,
     "timeYear": 5106,
     "dailyMinutesDown": {
@@ -58,7 +58,7 @@
       "2026-05-22": 1078,
       "2026-05-23": 1197,
       "2026-05-24": 990,
-      "2026-05-25": 10
+      "2026-05-25": 233
     }
   },
   {
@@ -159,11 +159,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "agent-discord-bot",
     "status": "down",
-    "uptime": "76.27%",
+    "uptime": "76.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.27%",
+    "uptimeYear": "76.28%",
     "time": 241,
     "timeDay": 0,
     "timeWeek": 0,
